@@ -2,7 +2,7 @@
 
 
 function fastbootExpressMiddleware(distPath, options) {
-  const FastBoot = require('fastboot');
+  const FastBoot = require('fastboot/src');
 
   let opts = options;
 
