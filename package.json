@@ -38,6 +38,6 @@
   },
   "dependencies": {
     "chalk": "^1.1.3",
-    "fastboot": "^1.0.0-rc.5"
+    "fastboot": "git://github.com/bobisjan/fastboot.git#ba4460d96cebb823929d5f96ea43fc2582053b43"
   }
 }
